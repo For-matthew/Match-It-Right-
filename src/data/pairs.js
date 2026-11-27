@@ -38,7 +38,7 @@ export const pairs = [
   },
   {
     id: 8,
-    a: { tl: "Ang katuwirang dapat hanapin ng tao.", en: "The righteousness that a person must seek." },
+    a: { tl: "Ang katuwirang dapat hanapin ng tao.", en: "The righteousness that a person must seek first." },
     b: { tl: "Ebanghelyo", en: "The Gospel" },
   },
   {
@@ -58,7 +58,7 @@ export const pairs = [
   },
   {
     id: 12,
-    a: { tl: "Paninindigang hinahanap ng Diyos sa atin.", en: "The steadfastness that God seeks from us." },
+    a: { tl: "Paninindigang hinahanap ng Diyos sa atin.", en: "The conviction that God seeks from us." },
     b: { tl: "Hindi nawawalan ng pag-asa", en: "Never losing hope" },
   },
 ];
